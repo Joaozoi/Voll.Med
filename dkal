@@ -1,0 +1,29 @@
+[33mcommit eef29ccebfede620ffecbd39534a9af17bea41fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: João Pedro Zabarella <zabarellaj@gmail.com>
+Date:   Sun Dec 15 00:31:48 2024 -0300
+
+    Adicionando Cadastro Pacientes
+
+[33mcommit be3b217edea0ea4c18b8a837fc1086595e59686a[m
+Author: João Pedro Zabarella <zabarellaj@gmail.com>
+Date:   Sat Dec 14 23:43:23 2024 -0300
+
+    Adicionando validações para o cadastrar no banco
+
+[33mcommit 2579d3ff1cb441fd6a0770a3b85bfa308db3d485[m
+Author: João Pedro Zabarella <zabarellaj@gmail.com>
+Date:   Fri Dec 13 21:17:39 2024 -0300
+
+    Adicionando o JPArepository
+
+[33mcommit 5071863b185cbda2429231df99360c4e15e15923[m
+Author: João Pedro Zabarella <zabarellaj@gmail.com>
+Date:   Tue Dec 10 21:23:16 2024 -0300
+
+    adicionado cadastro Cliente e cadastro Medico
+
+[33mcommit ce79988e051dbfda154a81487b391fd049b019e4[m
+Author: João Pedro Zabarella <zabarellaj@gmail.com>
+Date:   Sun Dec 8 19:57:35 2024 -0300
+
+    Firts commit
